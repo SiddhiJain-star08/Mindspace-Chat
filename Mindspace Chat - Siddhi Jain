@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+
+
+
 <html lang="en">
 
 
@@ -499,4 +503,401 @@
 
 
       padding:16px 38px;
+
+
+
+      border-radius:50px;
+
+
+
+      text-decoration:none;
+
+
+
+      font-size:18px;
+
+
+
+      transition:0.3s;
+
+
+
+      box-shadow:0 0 20px rgba(59,130,246,0.5);
+
+
+
+    }
+
+
+
+    .email-btn:hover{
+
+
+
+      background:#2563eb;
+
+
+
+      transform:scale(1.05);
+
+
+
+    }
+
+
+
+    footer{
+
+
+
+      text-align:center;
+
+
+
+      padding:35px;
+
+
+
+      border-top:1px solid rgba(255,255,255,0.2);
+
+
+
+      color:#d1d5db;
+
+
+
+      font-size:18px;
+
+
+
+    }
+
+
+
+  </style>
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+  <!-- HERO SECTION -->
+
+
+
+  <div class="hero">
+
+
+
+    <h1>MindSpace Chat 💜</h1>
+
+
+
+    <p>
+
+
+
+      Your Safe Space To Talk, Heal, And Feel Supported.
+
+
+
+      A place where teenagers can openly share feelings,
+
+
+
+      overcome stress and overthinking, and connect with
+
+
+
+      supportive AI companions and caring listeners anytime.
+
+
+
+    </p>
+
+
+
+    <a href="#contact" class="btn">Contact Us</a>
+
+
+
+  </div>
+
+
+
+  <!-- OUR STORY -->
+
+
+
+  <section>
+
+
+
+    <div class="container card">
+
+
+
+      <h2>Our Story</h2>
+
+
+
+      <p class="story-text">
+
+
+
+        I am Siddhi Jain, a Class 8 student of Indira National School, Pune.
+
+
+
+        I created MindSpace Chat because many teenagers silently struggle with
+
+
+
+        stress, loneliness, overthinking, pressure, and difficult emotions.
+
+
+
+        MindSpace Chat is designed to become a safe digital space where students
+
+
+
+        can feel heard, emotionally supported, and never alone during tough moments.
+
+
+
+      </p>
+
+
+
+    </div>
+
+
+
+  </section>
+
+
+
+  <!-- HOW IT WORKS -->
+
+
+
+  <section>
+
+
+
+    <div class="container">
+
+
+
+      <h2>How MindSpace Chat Works</h2>
+
+
+
+      <div class="cards">
+
+
+
+        <div class="work-card">
+
+
+
+          <div class="icon">🤖</div>
+
+
+
+          <h3>AI Support Chatbots</h3>
+
+
+
+          <p>
+
+
+
+            MindSpace Chat includes intelligent AI chatbots that are always
+
+
+
+            available to listen, guide, and support teenagers through stress,
+
+
+
+            overthinking, emotional struggles, and difficult decisions in a
+
+
+
+            calm and comforting way.
+
+
+
+          </p>
+
+
+
+        </div>
+
+
+
+        <div class="work-card">
+
+
+
+          <div class="icon">💬</div>
+
+
+
+          <h3>Real-Time Support</h3>
+
+
+
+          <p>
+
+
+
+            Users can connect with trusted counselors, therapists, and supportive
+
+
+
+            listeners who help teenagers feel emotionally safe and understood
+
+
+
+            whenever they need someone to talk to.
+
+
+
+          </p>
+
+
+
+        </div>
+
+
+
+        <div class="work-card">
+
+
+
+          <div class="icon">💜</div>
+
+
+
+          <h3>A Safe Teen Community</h3>
+
+
+
+          <p>
+
+
+
+            MindSpace Chat creates a positive and judgement-free environment
+
+
+
+            where teenagers can openly express themselves, build confidence,
+
+
+
+            reduce loneliness, and support one another through meaningful conversations.
+
+
+
+          </p>
+
+
+
+        </div>
+
+
+
+      </div>
+
+
+
+    </div>
+
+
+
+  </section>
+
+
+
+  <!-- CONTACT -->
+
+
+
+  <section id="contact">
+
+
+
+    <div class="container card contact">
+
+
+
+      <h2>Contact Us</h2>
+
+
+
+      <p>
+
+
+
+        We'd love to hear your ideas, feedback, and support for MindSpace Chat.
+
+
+
+        Together, we can create a safer and more positive digital space for teenagers.
+
+
+
+      </p>
+
+
+
+      <a href="mailto:siddhijainy@gmail.com" class="email-btn">
+
+
+
+        siddhijainy@gmail.com
+
+
+
+      </a>
+
+
+
+    </div>
+
+
+
+  </section>
+
+
+
+  <!-- FOOTER -->
+
+
+
+  <footer>
+
+
+
+    Made By Students, For Students 💜
+
+
+
+  </footer>
+
+
+
+</body>
+
+
+
+</html>
+
 
