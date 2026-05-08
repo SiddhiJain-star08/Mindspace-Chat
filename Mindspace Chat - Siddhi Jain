@@ -1,0 +1,487 @@
+
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+
+
+
+<head>
+
+
+
+  <meta charset="UTF-8" />
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+
+
+  <title>MindSpace Chat</title>
+
+
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+
+
+  <style>
+
+
+
+    body {
+
+
+
+      font-family: Arial, sans-serif;
+
+
+
+      scroll-behavior: smooth;
+
+
+
+    }
+
+
+
+    .glass {
+
+
+
+      background: rgba(255,255,255,0.12);
+
+
+
+      backdrop-filter: blur(10px);
+
+
+
+      border: 1px solid rgba(255,255,255,0.2);
+
+
+
+    }
+
+
+
+  </style>
+
+
+
+</head>
+
+
+
+<body class="bg-gradient-to-br from-purple-900 via-indigo-900 to-blue-900 text-white">
+
+
+
+  <!-- HERO SECTION -->
+
+
+
+  <section class="min-h-screen flex flex-col justify-center items-center text-center px-6">
+
+
+
+    <h1 class="text-5xl md:text-7xl font-bold mb-6">
+
+
+
+      MindSpace Chat 💜
+
+
+
+    </h1>
+
+
+
+    <p class="text-xl md:text-2xl text-gray-200 max-w-2xl mb-8">
+
+
+
+      Your Safe Space To Talk, Share Feelings, And Feel Supported.
+
+
+
+    </p>
+
+
+
+    <button class="bg-pink-500 hover:bg-pink-600 transition px-8 py-4 rounded-full text-lg font-semibold shadow-lg">
+
+
+
+      Join The Waitlist
+
+
+
+    </button>
+
+
+
+  </section>
+
+
+
+  <!-- OUR STORY -->
+
+
+
+  <section class="py-20 px-6">
+
+
+
+    <div class="max-w-5xl mx-auto glass rounded-3xl p-10">
+
+
+
+      <h2 class="text-4xl font-bold mb-6 text-pink-300">
+
+
+
+        Our Story
+
+
+
+      </h2>
+
+
+
+      <p class="text-lg leading-8 text-gray-200">
+
+
+
+        MindSpace Chat is a student-led emotional wellness platform created especially for teenagers. 
+
+
+
+        We understand that students often deal with stress, peer pressure, loneliness, and overthinking. 
+
+
+
+        Our mission is to create a safe, supportive, and judgement-free digital space where teens can 
+
+
+
+        openly express themselves, connect with others, and feel emotionally supported through positive conversations.
+
+
+
+      </p>
+
+
+
+    </div>
+
+
+
+  </section>
+
+
+
+  <!-- HOW IT WORKS -->
+
+
+
+  <section class="py-20 px-6">
+
+
+
+    <h2 class="text-4xl font-bold text-center mb-14 text-blue-300">
+
+
+
+      How It Works
+
+
+
+    </h2>
+
+
+
+    <div class="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+
+
+
+      <div class="glass p-8 rounded-3xl text-center hover:scale-105 transition">
+
+
+
+        <div class="text-5xl mb-4">📝</div>
+
+
+
+        <h3 class="text-2xl font-bold mb-4">Create Account</h3>
+
+
+
+        <p class="text-gray-200">
+
+
+
+          Join MindSpace Chat and become part of a supportive student community.
+
+
+
+        </p>
+
+
+
+      </div>
+
+
+
+      <div class="glass p-8 rounded-3xl text-center hover:scale-105 transition">
+
+
+
+        <div class="text-5xl mb-4">💬</div>
+
+
+
+        <h3 class="text-2xl font-bold mb-4">Chat Safely</h3>
+
+
+
+        <p class="text-gray-200">
+
+
+
+          Share feelings anonymously in a positive and judgement-free environment.
+
+
+
+        </p>
+
+
+
+      </div>
+
+
+
+      <div class="glass p-8 rounded-3xl text-center hover:scale-105 transition">
+
+
+
+        <div class="text-5xl mb-4">💜</div>
+
+
+
+        <h3 class="text-2xl font-bold mb-4">Feel Supported</h3>
+
+
+
+        <p class="text-gray-200">
+
+
+
+          Connect with people who understand and support you emotionally.
+
+
+
+        </p>
+
+
+
+      </div>
+
+
+
+    </div>
+
+
+
+  </section>
+
+
+
+  <!-- FEATURES -->
+
+
+
+  <section class="py-20 px-6">
+
+
+
+    <h2 class="text-4xl font-bold text-center mb-14 text-pink-300">
+
+
+
+      Features
+
+
+
+    </h2>
+
+
+
+    <div class="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+
+
+
+      <div class="glass rounded-3xl p-8">
+
+
+
+        <h3 class="text-2xl font-bold mb-4">🌸 Anonymous Conversations</h3>
+
+
+
+        <p class="text-gray-200">
+
+
+
+          Express yourself freely without fear of judgement.
+
+
+
+        </p>
+
+
+
+      </div>
+
+
+
+      <div class="glass rounded-3xl p-8">
+
+
+
+        <h3 class="text-2xl font-bold mb-4">🧠 Mental Wellness Support</h3>
+
+
+
+        <p class="text-gray-200">
+
+
+
+          Encourage healthier conversations and emotional awareness.
+
+
+
+        </p>
+
+
+
+      </div>
+
+
+
+      <div class="glass rounded-3xl p-8">
+
+
+
+        <h3 class="text-2xl font-bold mb-4">🤝 Positive Community</h3>
+
+
+
+        <p class="text-gray-200">
+
+
+
+          Meet supportive students and build meaningful connections.
+
+
+
+        </p>
+
+
+
+      </div>
+
+
+
+      <div class="glass rounded-3xl p-8">
+
+
+
+        <h3 class="text-2xl font-bold mb-4">📱 Mobile Friendly</h3>
+
+
+
+        <p class="text-gray-200">
+
+
+
+          Designed beautifully for phones, tablets, and desktops.
+
+
+
+        </p>
+
+
+
+      </div>
+
+
+
+    </div>
+
+
+
+  </section>
+
+
+
+  <!-- EMAIL SECTION -->
+
+
+
+  <section class="py-20 px-6">
+
+
+
+    <div class="max-w-3xl mx-auto glass rounded-3xl p-10 text-center">
+
+
+
+      <h2 class="text-4xl font-bold mb-6">
+
+
+
+        Join Our Waitlist 🚀
+
+
+
+      </h2>
+
+
+
+      <p class="text-gray-200 mb-8">
+
+
+
+        Be the first to experience MindSpace Chat before launch.
+
+
+
+      </p>
+
+
+
+      <form class="flex flex-col md:flex-row gap-4">
+
+
+
+        <input 
+
+
+
+          type="email"
+
+
+
+          placeholder="Enter your email"
+
+
+
+          class="flex-1 px-6 py-4 rounded-full text-black outline-none"
+
+
+
+        />
+
